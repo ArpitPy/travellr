@@ -11,27 +11,27 @@ function Footer() {
         </div>
         <div className="space-y-4 text-xs text-gray-800">
             <h5 className="font-bold">COMMUNITY</h5>
-            <p>How it works</p>
-            <p>Newsroom</p>
-            <p>Investors</p>
-            <p>Travellr Pro</p>
-            <p>Travellr Luxury</p>
+            <p>About Us</p>
+            <p>Reviews</p>
+            <p>Linktree</p>
+            <p>Press Coverage</p>
+            <p>Blog</p>
         </div>
         <div className="space-y-4 text-xs text-gray-800">
             <h5 className="font-bold">HOST</h5>
-            <p>How it works</p>
-            <p>Newsroom</p>
-            <p>Investors</p>
-            <p>Travellr Pro</p>
-            <p>Travellr Luxury</p>
+            <p>Become A Host</p>
+            <p>Quick Tips</p>
+            <p>FAQs</p>
+            <p>Travellr Tools</p>
+            <p>Advertise Your Hotel</p>
         </div>
         <div className="space-y-4 text-xs text-gray-800">
             <h5 className="font-bold">SUPPORT</h5>
-            <p>How it works</p>
-            <p>Newsroom</p>
-            <p>Investors</p>
-            <p>Travellr Pro</p>
-            <p>Travellr Luxury</p>
+            <p>Live Support</p>
+            <p>Contact Us</p>
+            <p>Our Offices</p>
+            <p>Careers</p>
+            <p>Write Us</p>
         </div>
     </div>
   )
