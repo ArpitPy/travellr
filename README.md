@@ -12,7 +12,7 @@ Travellr is a hotel booking website where people can search for hotels to stay a
   
 ## ⚡Tech Stack
 
-Tailwind CSS, React JS, Vercel, NextJS, Map Integrator, Vercel and Date-Time Add Ons.
+Tailwind CSS, React JS, Vercel, NextJS, Map Integrator, and Date-Time Add Ons.
 
 
 

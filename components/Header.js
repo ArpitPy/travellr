@@ -83,7 +83,7 @@ function Header({placeholder}) {
           />
           <div className="flex items-center border-b mb-4">
             <h2 className="text-2xl flex-grow font-semibold">
-              Number Of Guests
+              Number Of Guests 
             </h2>
             <UsersIcon className="h-5" />
             <input
