@@ -1,28 +1,72 @@
 
-# ⛺ Travellr
+# ⛺ Travellr ⛺
 
 Travellr is a hotel booking website where people can search for hotels to stay at, and book it online.
-## 💻Features
+## 🛠️ Features
 
-- Smooth and beautiful UI
-- Fully responsive website
-- Integrated maps
-- Online hotel booking
+(1) Smooth and beautiful UI
 
-  
-## ⚡Tech Stack
+(2) Live previews
 
-Tailwind CSS, React JS, Vercel, NextJS, Map Integrator, and Date-Time Add Ons.
+(3) Client Side Rendering
+
+(4) Fully responsive website
+
+(5) Integrated maps
+
+(6) Online hotel booking and searching
+
+(7) Progress Bar
 
 
+## 🔥 Demo
 
-  
-## ❤️Contributing
+**[Live Demo](https://travellr.vercel.app/)**
+
+
+## ⚡ Tech Stack
+
+- ReactJS
+- Tailwind CSS
+- Map Integrator
+- Date-Time Add On
+- NextJS
+- Vercel
+- Geolib
+
+
+## ⬇️ Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## ❤️ Contributing
 
 Contributions are always welcome!
 
-Do send a pull request if you would like to add a feature to it.
+See `contributing.md` for ways to get started.
 
-Please adhere to this project's code of conduct.
+Please adhere to this project's `code of conduct`.
 
-  
